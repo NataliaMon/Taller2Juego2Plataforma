@@ -4,22 +4,38 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sndDead</sound>
+    <sound>sound\sndExit</sound>
+    <sound>sound\sndJump</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprBlock</sprite>
     <sprite>sprites\sprBall</sprite>
+    <sprite>sprites\sprExit</sprite>
+    <sprite>sprites\sprStart</sprite>
+    <sprite>sprites\sprEnemy1</sprite>
+    <sprite>sprites\sprEnemy2</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\background0</background>
+    <background>background\Sky</background>
+    <background>background\YouWin</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\objBlock</object>
     <object>objects\objBall</object>
     <object>objects\obj_ViewController</object>
+    <object>objects\objExit</object>
+    <object>objects\objStart</object>
+    <object>objects\objEnemy1</object>
+    <object>objects\objEnemyController</object>
+    <object>objects\objEnemy2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Level1</room>
+    <room>rooms\GameOver</room>
+    <room>rooms\Win</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
