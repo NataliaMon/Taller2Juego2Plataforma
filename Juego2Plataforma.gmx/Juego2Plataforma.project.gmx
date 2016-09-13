@@ -16,6 +16,8 @@
     <sprite>sprites\sprStart</sprite>
     <sprite>sprites\sprEnemy1</sprite>
     <sprite>sprites\sprEnemy2</sprite>
+    <sprite>sprites\sprGemGreen</sprite>
+    <sprite>sprites\sprGemOrange</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Sky</background>
@@ -25,12 +27,14 @@
   <objects name="objects">
     <object>objects\objBlock</object>
     <object>objects\objBall</object>
-    <object>objects\obj_ViewController</object>
     <object>objects\objExit</object>
-    <object>objects\objStart</object>
+    <object>objects\obj_ViewController</object>
     <object>objects\objEnemy1</object>
-    <object>objects\objEnemyController</object>
     <object>objects\objEnemy2</object>
+    <object>objects\objEnemyController</object>
+    <object>objects\objGemGreen</object>
+    <object>objects\objGemOrange</object>
+    <object>objects\objStart</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Level1</room>

@@ -517,11 +517,25 @@
     <instance objName="objBlock" x="272" y="272" name="inst_26D283C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objEnemy1" x="64" y="208" name="inst_447219C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objEnemy1" x="304" y="720" name="inst_16968DDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objEnemy2" x="800" y="272" name="inst_6F9FB4AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objEnemy2" x="880" y="272" name="inst_6F9FB4AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objEnemy1" x="1376" y="496" name="inst_AF8D1EA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objEnemy2" x="1072" y="336" name="inst_02A8C3C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objEnemy2" x="992" y="560" name="inst_DB730F54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objEnemy1" x="992" y="720" name="inst_F132D61A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemGreen" x="464" y="64" name="inst_998A0BA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemGreen" x="1088" y="160" name="inst_BA26814D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemGreen" x="944" y="224" name="inst_00B00E4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemGreen" x="1520" y="240" name="inst_E2C4F88D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemGreen" x="64" y="384" name="inst_DA9DED32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemGreen" x="368" y="704" name="inst_D3965C5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemGreen" x="992" y="448" name="inst_A3B66E5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemGreen" x="1520" y="336" name="inst_15058F62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemOrange" x="64" y="512" name="inst_411BBB81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemOrange" x="64" y="704" name="inst_C6F20617" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemOrange" x="992" y="640" name="inst_95B9430B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemOrange" x="1520" y="704" name="inst_4486605B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemOrange" x="752" y="48" name="inst_96B68453" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objGemOrange" x="784" y="160" name="inst_4EA475D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
